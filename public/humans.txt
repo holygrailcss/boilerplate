@@ -1,0 +1,21 @@
+# humanstxt.org
+# humans txt
+
+Author: manuel ruiz
+Site: https://design-systems.es/
+Twitter: @
+Location: 
+
+
+/* TEAM */
+Author: manuel ruiz
+Developer:manuel ruiz
+Designer: manuel ruiz
+Contact: manuel ruiz
+
+/* THANKS */
+Gracias a mi 
+
+/* SITE */
+Site:design-systems.es
+Version: 1.0

@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+{% set noheroimage = [] %}
+{% import "../../node_modules/boilerplate-modules/src/_includes/macros/_insert.njk" as insert %}
+{% import "macros/_insert.njk" as insert %}
+
+
+<div class="main-article">
+  {% include 'templates/hg-1-introCta.njk' %}
+  {% include "templates/hg-2-benefits.njk" %}
+  {% include "templates/hg-3-why.njk" %}
+
+
+  <div class="container-fluid bg-color">
+    {% include "templates/hg-content_1.njk" %}
+    {% include "templates/hg-content_2.njk" %}
+    {% include "templates/hg-content_3.njk" %}
+    {% include "templates/hg-features_1.njk" %}
+  </div>
+  {% include "templates/hg-5-faqs.njk" %}
+
+  {% include "templates/hg-contacta_2.njk" %}
+</div>

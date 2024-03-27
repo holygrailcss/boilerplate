@@ -1,0 +1,29 @@
+@import "base/_fonts.scss";
+@import "abstract/_setup.scss";
+
+
+@import "../../../node_modules/holygrailcss/scss/style.scss";
+// -FASE 4 : OVERRIDE YOUR HOLYGRAIL
+@include space($breakpoints, $padding-top, $pt);
+@include space($breakpoints, $padding-bottom, $pb);
+@import "./_animations.scss";
+@import "./theme.scss";
+@import "./header2.scss";
+@import "./_menu.scss";
+
+
+@import "./componentes/_list.scss";
+@import "./componentes/_accordion.scss";
+@import "./componentes/_blog-home.scss";
+@import "./componentes/_video.scss";
+$primary-color: var(--primary-color);
+$c-primary: var(--c-primary);
+$c-gray: var(--c-gray);
+$c-secondary: var(--c-secondary);
+$bg-dark: var(--bg-dark);
+$bg-primary: var(--bg-primary);
+$c-bg-dark: var(--c-bg-dark);
+
+
+
+

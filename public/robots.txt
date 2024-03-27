@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /private/
+Disallow: /legal/
+
+Sitemap: theboilerplate.netlify.app/sitemap.xml
