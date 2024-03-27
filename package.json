@@ -15,15 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Allchorne3/11ty-nunjucks.git"
+    "url": "https://github.com/holygrailcss/boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Allchorne3/11ty-nunjucks/issues"
+    "url": "https://github.com/holygrailcss/boilerplate/issues"
+    
   },
-  "homepage": "https://github.com/Allchorne3/11ty-nunjucks#readme",
+  "homepage": "https://github.com/holygrailcss/boilerplate/#readme",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.0",
